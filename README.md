@@ -14,7 +14,7 @@ I love the intracies of health and movement. Anything related to anatomy, and bi
 
 Believe or not, but I love to problem solve. When there is a bug in my code, I get frustrated but also oddly excited. It's at weird type of feeling. I wll say though, programming doesn't get fun until you are able to automate or bring out ideas in your mind to real life!
 
-Believe me, when I took 2 hours to program something that would save me at most 3 seconds of my day...it was one of the most beautiful moments of my life 🥲,.
+Believe me, when I took 2 hours to program something that would save me at most 3 seconds of my day...it was one of the most beautiful moments of my life...
 
 ### Singing 🎤
 

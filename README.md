@@ -18,7 +18,7 @@ Believe me, when I took 2 hours to program something that would save me at most 
 
 ### Singing 🎤
 
-One of the things that I would consider a guilty pleasure. I joined my University without telling anyone, and it was an exhilarating experience. The congregation of hundreds of voices coming together to produce a captivating and beautiful sound. I can't really describe it in words.
+One of the things that I would consider a guilty pleasure. I joined my University Mixed Chorus without telling anyone, and it was an exhilarating experience. The congregation of hundreds of voices coming together to produce a captivating and beautiful sound. I can't really describe it in words.
 
 I believe that music is a universal language. You can go anywhere, speak to someone else with your song, and they would be able to understand it. It get's past language barriers of the mind as well as emotional barriers of the heart.
 
@@ -71,8 +71,6 @@ Honestly I have no clue what I want to collaberate on. However I am open to new 
 You can reach me by visiting my website at https://davidcao.me/ and filling out the form!
 
 ---
-
-![my profile pic](assets/smallProfilePic.jpg)
 
 <!---
 dave-cao/dave-cao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

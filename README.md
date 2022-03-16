@@ -68,7 +68,7 @@ Honestly I have no clue what I want to collaberate on. However I am open to new 
 
 ## How to Reach Me
 
-You can reach me by visiting my website at https://davidcao.me/ and filling out the form!
+You can reach me by visiting my website at https://davidcao.xyz/ and filling out the form!
 
 ---
 

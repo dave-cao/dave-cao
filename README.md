@@ -1,6 +1,5 @@
-# Hey! I'm David Cao (dave-cao)
-
-I am a 4th year student at the University of Alberta studying a Bachelors of Science in Kinesiology as well as an aspiring progammer!
+<h1 align="center">Hi 👋, I'm David Cao (dave-cao)</h1>
+<h3 align="center">I am a Kinesiology graduate from the University of Alberta as well as an aspiring programmer!</h3>
 
 ## My Interests
 
@@ -40,35 +39,15 @@ However, it did make me discover that there is always a world within a world. Th
 
 ### Coding
 
--   Python (taking an introductory course in school)
--   Javascript (furthering my knowledge though algorithms in _exercism.io_)
--   Bash (I'm daily driving Linux. I have no inch of Windows anywhere. I'm kinda forced to learn this)
--   React (continuing on in the freeCodeCamp.com bootcamp; my next project will be based off of React)
-
-### Kinesiology
-
--   Advanced Injury Management (a course I'm taking in school - basically become a Physio)
-
-### Language
-
--   Spanish (everyday without fail, currently on a 117 day streak in Duolingo and counting)
-
-### Other
-
--   KSR Case Competition (learning how to work in a team, reach out to organizations, and present in front of judges)
--   VIM (I love it, it's a way of life)
-
----
-
-## Collaboration
-
-Honestly I have no clue what I want to collaberate on. However I am open to new ideas, suggestions, or just a hello!
+- 🔭 I’m currently working on [100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu](https://github.com/dave-cao/100-Days-of-Code-Python)
+- I am also going through the Python track at [exercism.org](https://exercism.org/)
 
 ---
 
 ## How to Reach Me
 
-You can reach me by visiting my website at https://davidcao.xyz/ and filling out the form!
+- Visit my website [here](https://davidcao.xyz/) and filling out the form
+- Email me at **sirdavidcao@gmail.com**
 
 ---
 

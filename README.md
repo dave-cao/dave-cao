@@ -1,6 +1,4 @@
 ![davidbanner](https://github.com/dave-cao/dave-cao/assets/63488152/029e88f5-260d-4e67-99e2-cc77bd69279d)
-![davidbanner2](https://github.com/dave-cao/dave-cao/assets/63488152/682138fe-7670-4548-886f-f72b6281ea91)
-![davidbanner3](https://github.com/dave-cao/dave-cao/assets/63488152/850440fe-f282-4393-8248-1348c5229088)
 ![davidbanner4](https://github.com/dave-cao/dave-cao/assets/63488152/012ebb33-3be1-489b-8548-9aeaa2ba1a03)
 
 

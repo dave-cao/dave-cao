@@ -1,5 +1,4 @@
-![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/dave-cao/dave-cao/assets/63488152/6edeca49-9fdc-4f0f-ab36-5ee3fefe013f)
-
+![Black Minimalist Motivation Quote LinkedIn Banner (1)](https://github.com/dave-cao/dave-cao/assets/63488152/c509731a-5ab4-48fa-b4c2-988084e35501)
 <h1 align="center">Hi 👋, I'm David Cao (dave-cao)</h1>
 <h3 align="center">I am a Kinesiology graduate from the University of Alberta as well as an aspiring programmer!</h3>
 

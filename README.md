@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm David Cao (dave-cao)</h1>
-<h3 align="center">I am a Kinesiology graduate from the University of Alberta as well as an aspiring programmer!</h3>
+<h3 align="center">I am an MCIT student at the University of Pennsylvania and a Kinesiology graduate from the University of Alberta</h3>
 
 ## My Interests
 
-I would like to say that I'm a man with many interests and hobbies. If something seems interesting, I won't hesitate to try it out!
+I am a man with many interests and hobbies. If something seems interesting, I won't hesitate to try it out!
+
+### Coding 👨‍💻
+
+I love to problem solve. When there is a bug, there is a bug catcher...namely, me! When there is a bug in my code, I get frustrated, but also oddly excited. It fuels the competitive nature I have within myself and motivates me to keep going, making me learn new things every time. What I love so much about coding is that it is a landfield of bugs, errors, and exceptions. There are endless opportunities to learn, grow, and experience!
+
 
 ### Health and Kinesiology 🏃‍♂️
 
 I love the intracies of health and movement. Anything related to anatomy, and biomechanics gets me super excited. I like the practical application of helping other people with their body be it personal training, exercise programs, or problem solving a particular problem they were having (eg: Rhomboid minor pain caused by Serratus Anterior weakness)
 
-### Coding 👨‍💻
-
-Believe or not, but I love to problem solve. When there is a bug in my code, I get frustrated but also oddly excited. It's at weird type of feeling. I wll say though, programming doesn't get fun until you are able to automate or bring out ideas in your mind to real life!
-
-Believe me, when I took 2 hours to program something that would save me at most 3 seconds of my day...it was one of the most beautiful moments of my life...
-
-### Singing 🎤
-
-One of the things that I would consider a guilty pleasure. I joined my University Mixed Chorus without telling anyone, and it was an exhilarating experience. The congregation of hundreds of voices coming together to produce a captivating and beautiful sound. I can't really describe it in words.
+### Music 🎤
 
 I believe that music is a universal language. You can go anywhere, speak to someone else with your song, and they would be able to understand it. It get's past language barriers of the mind as well as emotional barriers of the heart.
 
@@ -35,11 +32,16 @@ However, it did make me discover that there is always a world within a world. Th
 
 ---
 
+## Recent Activities
+
+- Neuralberta Hackathon
+- Completed CodePath course - intermediate web development
+
 ## What I'm Currently Learning
 
-### Coding
-
-- 🔭 I’m currently working on [100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu](https://github.com/dave-cao/100-Days-of-Code-Python)
+- Discrete Math (Combinatorics, Probability, Graph Theory)
+- Programming in Java
+- CodePath course - intermediate web development
 - I am also going through the Python track at [exercism.org](https://exercism.org/)
 
 ---

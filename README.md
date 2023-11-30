@@ -35,14 +35,14 @@ However, it did make me discover that there is always a world within a world. Th
 
 ## Recent Activities
 
-- Neuralberta Hackathon
-- Completed CodePath course - intermediate web development
+- [Neuralberta Hackathon](https://devpost.com/software/physmatch?ref_content=my-projects-tab&ref_feature=my_projects)
+- Completed CodePath Intermediate Web Development Course
+    - [Certificate](https://drive.google.com/file/d/1jafesJA82AfVvvgTbsxueY85KXgpMtQd/view?usp=sharing)
+    - [Final Project](dave-cao.github.io/book-chronicles/)
 
 ## What I'm Currently Learning
 
-- Discrete Math (Combinatorics, Probability, Graph Theory)
-- Programming in Java
-- CodePath course - intermediate web development
+- Discrete Math (Combinatorics, Probability, Graph Theory) Programming in Java)
 - I am also going through the Python track at [exercism.org](https://exercism.org/)
 
 ---

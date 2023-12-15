@@ -1,6 +1,6 @@
 ![Black Minimalist Motivation Quote LinkedIn Banner (1)](https://github.com/dave-cao/dave-cao/assets/63488152/c509731a-5ab4-48fa-b4c2-988084e35501)
 <h1 align="center">Hi 👋, I'm David Cao (dave-cao)</h1>
-<h3 align="center">I am an MCIT student at the University of Pennsylvania and a Kinesiology graduate from the University of Alberta</h3>
+<h3 align="center">I am a Masters MCIT student at the University of Pennsylvania and a Kinesiology graduate from the University of Alberta</h3>
 
 ## My Interests
 

@@ -38,7 +38,7 @@ However, it did make me discover that there is always a world within a world. Th
 - [Neuralberta Hackathon](https://devpost.com/software/physmatch?ref_content=my-projects-tab&ref_feature=my_projects)
 - Completed CodePath Intermediate Web Development Course
     - [Certificate](https://drive.google.com/file/d/1jafesJA82AfVvvgTbsxueY85KXgpMtQd/view?usp=sharing)
-    - [Final Project](dave-cao.github.io/book-chronicles/)
+    - [Final Project](https://github.com/dave-cao/Book-Chronicles)
 
 ## What I'm Currently Learning
 

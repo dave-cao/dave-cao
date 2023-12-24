@@ -39,11 +39,13 @@ However, it did make me discover that there is always a world within a world. Th
 - Completed CodePath Intermediate Web Development Course
     - [Certificate](https://drive.google.com/file/d/1jafesJA82AfVvvgTbsxueY85KXgpMtQd/view?usp=sharing)
     - [Final Project](https://github.com/dave-cao/Book-Chronicles)
+- Completed MCIT 5920 ~ Discrete Math (Combinatorics, Probability, Graph Theory)
+- Completed MCIT 5910 ~ Programming in Python and Java
 
 ## What I'm Currently Learning
-
-- Discrete Math (Combinatorics, Probability, Graph Theory) Programming in Java)
-- I am also going through the Python track at [exercism.org](https://exercism.org/)
+- Going through the Python track at [exercism.org](https://exercism.org/)
+- Going through NeetCodes Leetcode roadmap at [neetcode.io](https://neetcode.io)
+- Reading *Cracking the Coding Interview* and learning how to apply for jobs 😭
 
 ---
 

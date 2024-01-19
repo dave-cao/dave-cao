@@ -35,7 +35,7 @@ However, it did make me discover that there is always a world within a world. Th
 
 ## Recent Activities
 
-- Completed the best book review website to every exists...[Bookshelf Chronicles](https://dave-cao.github.io/Book-Chronicles/)
+- Completed the best book review website to ever exist...[Bookshelf Chronicles](https://dave-cao.github.io/Book-Chronicles/)
 - [Neuralberta Hackathon](https://devpost.com/software/physmatch?ref_content=my-projects-tab&ref_feature=my_projects)
 - Completed CodePath Intermediate Web Development Course
     - [Certificate](https://drive.google.com/file/d/1jafesJA82AfVvvgTbsxueY85KXgpMtQd/view?usp=sharing)

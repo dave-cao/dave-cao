@@ -35,19 +35,19 @@ However, it did make me discover that there is always a world within a world. Th
 
 ## Recent Activities
 
+- Completed the best book review website to every exists...[Bookshelf Chronicles](https://dave-cao.github.io/Book-Chronicles/)
 - [Neuralberta Hackathon](https://devpost.com/software/physmatch?ref_content=my-projects-tab&ref_feature=my_projects)
 - Completed CodePath Intermediate Web Development Course
     - [Certificate](https://drive.google.com/file/d/1jafesJA82AfVvvgTbsxueY85KXgpMtQd/view?usp=sharing)
     - [Final Project](https://github.com/dave-cao/Book-Chronicles)
-- Completed MCIT 5920 ~ Discrete Math (Combinatorics, Probability, Graph Theory)
-- Completed MCIT 5910 ~ Programming in Python and Java
 
 ## What I'm Currently Learning
+
+- MCIT 5930 ~ Computer Systems
+- MCIT 5940 ~ Data Structures & Software Design
 - Going through the Python track at [exercism.org](https://exercism.org/)
 - Going through NeetCodes Leetcode roadmap at [neetcode.io](https://neetcode.io)
 - Reading *Cracking the Coding Interview* and learning how to apply for jobs 😭
-- Started CS50 Introduction to Cybersecurity
-- I'm still working on my [Bookshelf Chronicles](https://dave-cao.github.io/Book-Chronicles/) website
 
 ---
 

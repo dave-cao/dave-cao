@@ -44,6 +44,7 @@ However, it did make me discover that there is always a world within a world. Th
 
 - Going through NeetCodes Leetcode roadmap at [neetcode.io](https://neetcode.io)
 - MCIT 5950 ~ Computer Systems Programming
+- University of Pennsylvania MCIT 5940 TA ~ Data Structures & Software Design
 - [Develop for Good](https://www.developforgood.org/) Engineer for [Kingdom DAO](http://www.firmcollective.org/) (4 months)
 
 ---

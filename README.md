@@ -35,20 +35,17 @@ However, it did make me discover that there is always a world within a world. Th
 
 ## Recent Activities
 
-- Completed the best book review website to ever exist...[Bookshelf Chronicles](https://dave-cao.github.io/Book-Chronicles/)
-- [Neuralberta Hackathon](https://devpost.com/software/physmatch?ref_content=my-projects-tab&ref_feature=my_projects)
-- Completed CodePath Intermediate Web Development Course
-    - [Certificate](https://drive.google.com/file/d/1jafesJA82AfVvvgTbsxueY85KXgpMtQd/view?usp=sharing)
-    - [Final Project](https://github.com/dave-cao/Book-Chronicles)
+- Completed CodePath Android 101
+- Completed MCIT 5930 ~ Computer Systems
+- Completed MCIT 5940 ~ Data Structures & Software Design
+- Completed 3-month internship with Sky-IT / GBCS Group as a Front-end Intern and Team Lead ~ [David Cao_Cert.pdf](https://github.com/dave-cao/dave-cao/files/15215622/David.Cao_Cert.pdf)
 
 ## What I'm Currently Learning
 
-- MCIT 5930 ~ Computer Systems
-- MCIT 5940 ~ Data Structures & Software Design
 - Going through the Python track at [exercism.org](https://exercism.org/)
 - Going through NeetCodes Leetcode roadmap at [neetcode.io](https://neetcode.io)
 - Reading *Cracking the Coding Interview* and learning how to apply for jobs 😭
-
+- MCIT 5950 ~ Computer Systems Programming
 ---
 
 ## How to Reach Me

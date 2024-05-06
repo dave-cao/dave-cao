@@ -38,7 +38,9 @@ However, it did make me discover that there is always a world within a world. Th
 - Completed CodePath Android 101
 - Completed MCIT 5930 ~ Computer Systems
 - Completed MCIT 5940 ~ Data Structures & Software Design
+- [aifluently.com](https://www.aifluently.com/) ~ a freelance project for a local startup
 - Completed 3-month internship with Sky-IT / GBCS Group as a Front-end Intern and Team Lead ~ [David Cao_Cert.pdf](https://github.com/dave-cao/dave-cao/files/15215622/David.Cao_Cert.pdf)
+- [cleverkiddosdaycare.com](clever-kiddos-daycare.vercel.app) ~ a freelance project for a local daycare. 
 
 ## What I'm Currently Learning
 

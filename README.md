@@ -42,10 +42,10 @@ However, it did make me discover that there is always a world within a world. Th
 
 ## What I'm Currently Learning
 
-- Going through the Python track at [exercism.org](https://exercism.org/)
 - Going through NeetCodes Leetcode roadmap at [neetcode.io](https://neetcode.io)
-- Reading *Cracking the Coding Interview* and learning how to apply for jobs 😭
 - MCIT 5950 ~ Computer Systems Programming
+- Develop for Good Engineer for [Kingdom DAO](http://www.firmcollective.org/)
+
 ---
 
 ## How to Reach Me

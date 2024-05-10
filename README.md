@@ -56,6 +56,9 @@ However, it did make me discover that there is always a world within a world. Th
 
 - Visit my website [here](https://davidcao.xyz/) and filling out the form
 - Email me at **sirdavidcao@gmail.com**
+- Resume: [David Cao Resume](https://github.com/dave-cao/dave-cao/files/15279411/davidcao_swe_resume_template.pdf)
+
+
 
 ---
 <h3 align="left">Connect with me:</h3>

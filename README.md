@@ -35,20 +35,16 @@ However, it did make me discover that there is always a world within a world. Th
 
 ## Recent Activities
 
-- Completed CodePath Android 101
-- Completed MCIT 5930 ~ Computer Systems
-- Completed MCIT 5940 ~ Data Structures & Software Design
-- [aifluently.com](https://www.aifluently.com/) ~ a freelance project for a local startup (worked on search bar, stripe integration, and web scraping)
-- Completed 3-month internship with Sky-IT / GBCS Group as a Front-end Intern and Team Lead ~ [David Cao_Cert.pdf](https://github.com/dave-cao/dave-cao/files/15215622/David.Cao_Cert.pdf)
-- [cleverkiddosdaycare.com](https://clever-kiddos-daycare.vercel.app/) ~ a freelance project for a local daycare. 
+- Got a job as a Software Developer at Michetti Information Solutions Inc.
+- Completed Microsoft: Azure Fundamentals (AZ-900 Exam) Certification
+- Completed MCIT SPARC Competition (4 months)
+- Completed [Develop for Good](https://www.developforgood.org/) Engineer Manager for [Kingdom DAO](http://www.firmcollective.org/) (4 months)
+- Completed MCIT 5950 ~ Computer Systems Programming
 
 ## What I'm Currently Learning
 
-- Going through NeetCodes Leetcode roadmap at [neetcode.io](https://neetcode.io)
-- MCIT 5950 ~ Computer Systems Programming
+- MCIT 5510 ~ Computer & Network Security
 - University of Pennsylvania MCIT 5940 TA ~ Data Structures & Software Design
-- [Develop for Good](https://www.developforgood.org/) Engineer for [Kingdom DAO](http://www.firmcollective.org/) (4 months)
-- MCIT SPARC Competition (4 months)
 
 ---
 

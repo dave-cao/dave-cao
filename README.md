@@ -43,6 +43,7 @@ However, it did make me discover that there is always a world within a world. Th
 
 ## What I'm Currently Learning
 
+- C# and the .NET Core framework
 - MCIT 5510 ~ Computer & Network Security
 - University of Pennsylvania MCIT 5940 TA ~ Data Structures & Software Design
 
